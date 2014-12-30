@@ -1,4 +1,4 @@
-Course-Projects
+Mining Stack overflow posts
 ===============
 
 This project is for the course COM S 641.
